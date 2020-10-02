@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Stories</string>
+    <string name="app_name">كبرياء ثم عشق</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="ad_banner">ca-app-pub-1723457251079683/9096631989</string>
+    <string name="ad_inter">ca-app-pub-1723457251079683/3844305301</string>
+    <string name="publisher_ID">pub-1723457251079683</string>
+    <string name="privacy"></string>
+    <string name="company_name">Muskaka2018</string>
+    <string name="developer">muskaka</string>
+    <string name="package_name">com.aksa.stories</string>
+    <string name="email">muskaka2018@gmail.com</string>
+    <string name="ADMOB_ADS_UNIT_ID">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="ad_attribution">Ad</string>
 </resources>

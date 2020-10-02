@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="الرئيسية" />
+        <item
+            android:id="@+id/nav_policy"
+            android:icon="@drawable/ic_baseline_policy_24"
+            android:title="السياسة الخصوصية" />
+        <item
+            android:id="@+id/nav_apps"
+            android:icon="@drawable/ic_baseline_collections_bookmark_24"
+            android:title="المزيد من التطبيقات" />
 
+    </group>
 </menu>
